@@ -1,13 +1,20 @@
-## Feature PR
+---
+name: Feature
+about: Use this template when adding a new feature
+title: "[FEATURE] "
+labels: feature
+assignees: ''
+---
+## Description
 
-### Summary
-<!-- What changed and why? -->
+Please include a summary of the feature and what problem it solves.
 
-### Checklist
-- [ ] Summary provided
-- [ ] Jira / Story link included
-- [ ] Rollback notes included
-- [ ] Screenshots attached (UI changes only)
+## Checklist
 
-### Notes (optional)
-<!-- Anything reviewers should know -->
+- [ ] I have added tests if applicable
+- [ ] Documentation has been updated if needed
+- [ ] Code follows project style guidelines
+
+## Additional Notes
+
+Anything else reviewers should know.
